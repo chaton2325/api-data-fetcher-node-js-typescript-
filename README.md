@@ -16,7 +16,7 @@ This repository includes a TypeScript file (`fetchData.ts`) that uses the `fetch
 Before using this project, ensure that you have the following prerequisites:
 - **Node.js**: Used to run TypeScript code and install dependencies.
 - **TypeScript**: This project uses TypeScript, so ensure you have `tsc` installed for compiling the code.
-- **Backend API**: The code makes calls to a backend server configured at `http://192.168.1.105:8000`. Ensure that your server is up and accessible.
+- **Backend API**: The code makes calls to a backend server configured at `http://192.168.1.X.X:8000`. Ensure that your server is up and accessible.
 
 ## Installation
 
